@@ -1,0 +1,13 @@
+name: cec_data_explorer
+title: CEC_Data_Explorer
+username: leighton
+account: leighton
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a1fdfb-fd48-3dd2-c4a1-d1d78a1b1208
+appGuid:
+bundleId:
+url: https://connect.posit.cloud/leighton/content/01a1fdfb-fd48-3dd2-c4a1-d1d78a1b1208
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
